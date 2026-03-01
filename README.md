@@ -54,18 +54,3 @@ I like solving hard problems across the full stack — from GPU ray tracing to m
 
 - **[tghamm/Anthropic.SDK](https://github.com/tghamm/Anthropic.SDK)** (212+ stars) — Added Model Context Protocol (MCP) integration, .NET 10 support, structured output for Microsoft.Extensions.AI, and various bug fixes to this C#/.NET SDK for Claude. ([Merged PR](https://github.com/tghamm/Anthropic.SDK/pull/182))
 
----
-
-### GitHub stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TJaenichen&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TJaenichen&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TJaenichen&show_icons=true&theme=default&hide_border=true&count_private=true" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TJaenichen&layout=compact&theme=github_dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TJaenichen&layout=compact&theme=default&hide_border=true" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TJaenichen&layout=compact&theme=default&hide_border=true" />
-</picture>
