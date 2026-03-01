@@ -52,8 +52,7 @@ I like solving hard problems across the full stack — from GPU ray tracing to m
 
 ### Open-source contributions
 
-- **[Anthropic.SDK](https://github.com/tghamm/Anthropic.SDK)** — Added Model Context Protocol (MCP) integration, .NET 10 support, structured output for Microsoft.Extensions.AI, and various bug fixes to this C#/.NET SDK for Claude. ([Merged PR](https://github.com/tghamm/Anthropic.SDK/pull/182))
-- **[Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents)** — Contributor to Unity's ML toolkit for training intelligent agents in game environments.
+- **[tghamm/Anthropic.SDK](https://github.com/tghamm/Anthropic.SDK)** (212+ stars) — Added Model Context Protocol (MCP) integration, .NET 10 support, structured output for Microsoft.Extensions.AI, and various bug fixes to this C#/.NET SDK for Claude. ([Merged PR](https://github.com/tghamm/Anthropic.SDK/pull/182))
 
 ---
 
