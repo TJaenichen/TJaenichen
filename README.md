@@ -32,13 +32,31 @@ I've spent years building across the stack — GPU ray tracing, game engines, ge
 
 ### Other notable projects
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
-![NVIDIA OptiX](https://img.shields.io/badge/NVIDIA_OptiX-76B900?style=flat&logo=nvidia&logoColor=white)
-![WebGPU](https://img.shields.io/badge/WebGPU-4285F4?style=flat)
-
 | Project | What it does |
 |---------|-------------|
 | [**CityGML2GameObject**](https://github.com/TJaenichen/CityGML2GameObject) | Runtime import of CityGML geospatial data into Unity — bridging GIS and game engines |
 | [**OptixSharp**](https://github.com/TJaenichen/OptixSharp) | C#/.NET bindings for NVIDIA OptiX ray tracing engine |
 | [**MapsWebGPUBlazor**](https://github.com/TJaenichen/MapsWebGPUBlazor) | Map rendering with WebGPU + Blazor — next-gen browser graphics meets .NET web |
+
+---
+
+### What else I work with
+
+**Languages & Frameworks**
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![HLSL/ShaderLab](https://img.shields.io/badge/HLSL%2FShaderLab-222222?style=flat)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+**3D / Spatial / Hardware**
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![NVIDIA OptiX](https://img.shields.io/badge/NVIDIA_OptiX-76B900?style=flat&logo=nvidia&logoColor=white)
+![WebGPU](https://img.shields.io/badge/WebGPU-4285F4?style=flat)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![3D Printing](https://img.shields.io/badge/3D_Printing_(Marlin)-000000?style=flat)
