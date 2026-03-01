@@ -51,7 +51,6 @@ I've spent years building across the stack — GPU ray tracing, game engines, ge
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![HLSL/ShaderLab](https://img.shields.io/badge/HLSL%2FShaderLab-222222?style=flat)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 **3D / Spatial / Hardware**
 
