@@ -1,7 +1,6 @@
 # Thorsten Jaenichen
 
-**Software architect and AI practice lead** in Montreal. 25+ years across .NET, C++, GPU and geospatial systems. The last three years went into one question: how does a small team ship at large-team scale when AI agents write most of the code, and how do you verify that output well enough to run it in production?
-
+**Software architect and AI practice lead** in Montreal. 25+ years across .NET, C++, GPU and geospatial systems. 
 ---
 
 ### Open source
